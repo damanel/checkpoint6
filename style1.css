@@ -1,0 +1,98 @@
+body{
+     background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+     
+     Linear-gradient(127deg, black, black 70.71%),
+     
+     Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+          } 
+.image{
+     width: 100%;
+     height: 300px;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCBLt_as2elIaP_wlkbkRA59Xe1mZ1_BpoPyiFo7vE2YcP6LH);
+     margin-top: 60px;
+
+}
+
+ul li a {
+     margin-top: -40px;
+     text-align: center ;
+
+}
+h1{
+     padding-top: 100px;
+}
+
+#white{
+     color: aliceblue;
+}
+li {
+     float: left;
+     text-align: center ;
+
+
+   }
+   
+   li a {
+     display: block;
+     color: white;
+     text-align: center ;
+     padding: 14px 16px;
+     text-decoration: none;
+     margin-left: 250px;
+     font-size: 25px;
+   }
+   
+   li a:hover {
+    color: red;
+   }
+   .g1 {
+        display:flex;
+        align-items: flex-end;
+        margin-top: 100px;
+        
+        justify-content: center;
+   }
+   .img{
+     padding-left: 30px;
+     
+
+   }
+   .image{
+        position: relative;
+        
+   }
+   .bouton{
+       padding-left: 80px;
+       display: flex;
+       justify-content: center;
+     align-items: center;
+   }
+   .bouton button{
+     position: absolute;
+     text-decoration: none;
+     display:none;
+    
+   }
+   p a{
+        text-decoration: none;
+        font-size: 15px;
+        
+   }
+
+
+   div a {
+     display: inline-block;
+     color: white;
+     text-align: center ;
+     align-items: flex-end;
+     padding: 14px 16px;
+     text-decoration: none;
+     margin-left: 250px;
+     font-size: 25px;
+   }
+   
+    a:hover {
+    color: red;
+    text-decoration-line: underline;
+   }
+  
